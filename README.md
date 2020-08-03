@@ -6,7 +6,7 @@
 
 ### Bem-vindos! 👋
 
-Muito prazer, me chamo ✨ **Lucas Kenzo** ✨ 
+Muito prazer, me chamo ✨ **Kenzo** ✨ 
 <!--
 Here are some ideas to get you started:
 
