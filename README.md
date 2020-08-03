@@ -6,7 +6,7 @@
 
 ### Bem-vindos! 👋
 
-Muito prazer a✨ **todos** ✨ 
+✨ **Muito prazer em conhecê-los** ✨ 
 <!--
 Here are some ideas to get you started:
 
