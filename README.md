@@ -7,6 +7,27 @@
 ### Bem-vindos! 👋
 
 ✨ Muito prazer em conhecê-los ✨ 
+
+Me chamo **Lucas Matsui**, mas muitos me chamam de **Kenzo**, que é meu segundo nome 😄.
+
+Estou apaixonado pelas **boas práticas de desenvolvimento de software** que estou estudando, como:
+  - :star: Refatoração
+  - :star: Código limpo
+  - :star: SOLID
+  - :star: Object Calistenics
+  - :star: Design Patterns
+
+Estou lendo atualmente o livro:
+
+:closed_book: **Trabalho eficaz com código legado** - Michael C. Feathers
+
+que é muito bom pra quem quer entender como escalar um softaware que não tem teste, e como deixar ele cada vez mais manutenivel.
+
+⚡ Oque eu gosto de fazer nos tempos livres:
+ - :family: Gosto de passar tempo de qualidade com a minha noiva que eu sou apaixonado.
+ - :memo: Eu gosto de pegar oque estou aprendendo e aplicar em algum mini projetinho, por exemplo, algum clone.
+ - :office: E também de estudar sobre négocios, empreededorismo e Marketing digital.
+ - :video_game: Jogar jogos online, atualmente de vez em nunca 😄.
 <!--
 Here are some ideas to get you started:
 
@@ -17,5 +38,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 !>
