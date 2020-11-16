@@ -10,7 +10,7 @@
 
 Me chamo **Lucas Matsui**, mas muitos me chamam de **Kenzo**, que é meu segundo nome 😄.
 
-Estou apaixonado pelas **boas práticas de desenvolvimento de software** que estou estudando, como:
+Um apaixonado pelas **boas práticas de desenvolvimento de software** que venho me aprimorando, como:
   - :star: Refatoração
   - :star: Código limpo
   - :star: SOLID
