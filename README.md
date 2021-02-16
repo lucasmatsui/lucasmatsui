@@ -10,18 +10,19 @@
 
 Me chamo **Lucas Matsui**, mas muitos me chamam de **Kenzo**, que é meu segundo nome 😄.
 
-Um apaixonado pelas **boas práticas de desenvolvimento de software** que venho me aprimorando, como:
+Sou um programador apaixonado pelas **boas práticas de desenvolvimento de software** que venho me aprimorando cada dia mais, como:
   - :star: Refatoração
   - :star: Código limpo
   - :star: SOLID
   - :star: Object Calistenics
   - :star: Design Patterns
 
-Estou lendo atualmente o livro:
+Atualmente estou estudando:
+  - :closed_book: Microserviços
+  - :closed_book: Comunicação via **gRPC/Apacha Kafka**...
+  - :closed_book: Domain-Driven Design
 
-:closed_book: **Trabalho eficaz com código legado** - Michael C. Feathers
-
-que é muito bom pra quem quer entender como escalar um softaware que não tem teste, e como deixar ele cada vez mais manutenivel.
+:star: Meu objetivo é me tornar um **FULLCYCLE** developer
 
 ⚡ Oque eu gosto de fazer nos tempos livres:
  - :family: Gosto de passar tempo de qualidade com a minha noiva que eu sou apaixonado.
