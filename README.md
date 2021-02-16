@@ -19,7 +19,7 @@ Sou um programador apaixonado pelas **boas práticas de desenvolvimento de softw
 
 Atualmente estou estudando:
   - :closed_book: Microserviços
-  - :closed_book: Comunicação via **gRPC/Apacha Kafka**...
+  - :closed_book: Comunicação via **gRPC/Apache Kafka**...
   - :closed_book: Domain-Driven Design
 
 :star: Meu objetivo é me tornar um **FULLCYCLE** developer
