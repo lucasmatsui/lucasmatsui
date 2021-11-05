@@ -14,10 +14,11 @@ Sou um programador apaixonado pelas **boas práticas de desenvolvimento de softw
   - :star: Object Calistenics
   - :star: Design Patterns
 
-**Atualmente estou estudando:**
-  - :closed_book: Microserviços
-  - :closed_book: Comunicação via **gRPC/Apache Kafka**...
-  - :closed_book: Domain-Driven Design
+E arquiteturas de software como:
+  - :star: DDD
+  - :star: CQRS
+  - :star: Event Sourcing
+
 
 Meu objetivo é me tornar um **FULLCYCLE** developer
 
