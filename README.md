@@ -20,8 +20,6 @@ E arquiteturas de software como:
   - :star: Event Sourcing
 
 
-Meu objetivo é me tornar um **FULLCYCLE** developer
-
 Oque eu gosto de fazer nos tempos livres:
  - :family: Gosto de passar tempo de qualidade com a minha esposa que eu sou apaixonado.
  - :memo: Eu gosto de pegar oque estou aprendendo e aplicar em algum mini projetinho.
